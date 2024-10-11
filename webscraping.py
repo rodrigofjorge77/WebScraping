@@ -86,7 +86,7 @@ avaliacoes = [aval.text for aval in avaliacoes]
 for aval in avaliacoes:
     
     # Divide a string da avaliação em duas partes: nota e número de votos
-    rating, vote = aval.split('\xa0')
+    rating, vote, resto = aval.split('\xa0')
     
     # Adiciona a nota do filme à lista de ratings
     ratings.append(rating)
