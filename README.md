@@ -1,6 +1,8 @@
 🕸️🚀 Web Scraping em Python!
 Este repositório contém um script em Python que realiza web scraping para extrair dados de uma página da web e armazená-los em uma tabela de banco de dados.
 
+![Arquitetura](https://github.com/rodrigofjorge77/Wheather-Forecast-WebScraping/blob/main/arquitetura%20webscraping.png)
+
 Funcionalidades
 Extração de Dados: O script acessa uma URL específica e coleta informações relevantes.
 Limpeza e Formatação: Os dados extraídos são processados para garantir sua qualidade.
