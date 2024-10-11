@@ -17,19 +17,6 @@ BeautifulSoup
 psycopg2 ou SQLAlchemy (dependendo do banco de dados)
 Você pode instalar as bibliotecas necessárias com o comando:
 
-bash
-Copiar código
-pip install -r requirements.txt
-Como Usar
-Configure o Banco de Dados: Atualize as configurações de conexão no script para corresponder ao seu banco de dados.
-
-Execute o Script: Utilize o seguinte comando no terminal:
-
-bash
-Copiar código
-python webscraping.py
-Verifique os Dados: Após a execução, os dados estarão disponíveis na tabela do banco de dados configurada.
-
 Observações
 Este script pode ser adaptado para diferentes páginas da web conforme necessário.
 Contribuições
@@ -53,19 +40,6 @@ requests
 BeautifulSoup
 psycopg2 or SQLAlchemy (depending on the database)
 You can install the necessary libraries with the command:
-
-bash
-Copiar código
-pip install -r requirements.txt
-How to Use
-Configure the Database: Update the connection settings in the script to match your database.
-
-Run the Script: Use the following command in the terminal:
-
-bash
-Copiar código
-python webscraping.py
-Check the Data: After execution, the data will be available in the configured database table.
 
 Notes
 This script can be adapted for different webpages as needed.
